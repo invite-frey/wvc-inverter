@@ -32,9 +32,9 @@ The flows depend on the following additional nodes that need to be added:
 
 If MongoDB is not installed on your system, follow operating system specific instructions to install it. By default the flow uses a mongodb server on localhost on the default port with no authentication. Go through all MongoDB nodes and change that if needed.
 
-Install required nodes from the node red sandwich menu 'Manage Palette'.
+Install required nodes from the node red sandwich menu -> 'Manage Palette'.
 
-Download each flow and copy to clipboard using any text editor. Then choose 'Import -> Clipboard' from the node red sandwich menu for each flow.
+Download each flow and copy to clipboard using any text editor. Then choose 'Import -> Clipboard' from the node red sandwich menu, paste the flow into the text box and click 'Import'. Repeat for each flow.
 
 By default MQTT messages will be sent to an MQTT broker on the default port on localhost. Go through all MQTT nodes and change that if needed.
 
@@ -55,9 +55,6 @@ The Solar gauge in the Instant Power tab shows the sum of the real time DC power
 
 * [Node Red](https://nodered.org)
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
