@@ -27,6 +27,7 @@ The flows depend on the following additional nodes that need to be added:
 * node-red-contrib-objectid
 * node-red-dashboard
 * node-red-node-serialport
+* node-red-contrib-persist
 
 ### Installing
 
