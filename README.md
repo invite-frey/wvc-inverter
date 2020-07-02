@@ -29,7 +29,7 @@ The flows depend on the following additional nodes that need to be added:
 * node-red-dashboard
 * node-red-node-serialport
 * node-red-contrib-persist
-* [node-red-contrib-influxdb] https://flows.nodered.org/node/node-red-contrib-influxdb
+* [node-red-contrib-influxdb] (https://flows.nodered.org/node/node-red-contrib-influxdb)
 * node-red-contrib-oled (For Raspberry Pi OLED Display)
 
 ### Installation
