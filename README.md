@@ -18,6 +18,7 @@ Features available in these flows:
 * Computer with USB or serial port running [Node Red](https://nodered.org)
 * [MongoDB](https://www.mongodb.com) installed on the same computer.
 * Access to an MQTT broker if you want to make use of the MQTT messages.
+* InfluxDB server to make use of InfluxDB persistence.
 
 ### Node Red Nodes
 
@@ -28,14 +29,16 @@ The flows depend on the following additional nodes that need to be added:
 * node-red-dashboard
 * node-red-node-serialport
 * node-red-contrib-persist
+* [node-red-contrib-influxdb] https://flows.nodered.org/node/node-red-contrib-influxdb
+* node-red-contrib-oled (For Raspberry Pi OLED Display)
 
-### Installing
+### Installation
 
 If MongoDB is not installed on your system, follow operating system specific instructions to install it. By default the flow uses a mongodb server on localhost on the default port with no authentication. Go through all MongoDB nodes and change that if needed.
 
 Install required nodes from the node red sandwich menu -> 'Manage Palette'.
 
-Download each flow and copy to clipboard using any text editor. Then choose 'Import -> Clipboard' from the node red sandwich menu, paste the flow into the text box and click 'Import'. Repeat for each flow.
+Download flows. Then for each flow open the file and copy to clipboard. Then choose 'Import -> Clipboard' from the node red sandwich menu, paste the flow into the text box and click 'Import'. Repeat for each flow.
 
 By default MQTT messages will be sent to an MQTT broker on the default port on localhost. Go through all MQTT nodes and change that if needed.
 
@@ -91,6 +94,7 @@ The Solar gauge in the Instant Power tab shows the sum of the real time AC power
 ## Versioning
 
 * 1.0 - First Release
+* 1.1 - Added flows for persistence and LED display presentation.
 
 ## Authors
 
