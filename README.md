@@ -100,6 +100,13 @@ The Solar gauge in the Instant Power tab shows the sum of the real time AC power
 
 * **Frey Mansikkaniemi** - [InviteFrey](https://github.com/invite-frey)
 
+## Donations
+
+Donations are much appreciated if you found this resource useful. 
+
+Bitcoin: 32AULufQ6AUzq9jKZdcLjSxfePZbsqQKEp
+BTC Lightning via tippin.me: https://tippin.me/@freyhk
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
