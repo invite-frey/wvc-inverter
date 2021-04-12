@@ -104,8 +104,7 @@ The Solar gauge in the Instant Power tab shows the sum of the real time AC power
 
 Donations are much appreciated if you found this resource useful. 
 
-* Bitcoin: 32AULufQ6AUzq9jKZdcLjSxfePZbsqQKEp
-* BTC Lightning via tippin.me: https://tippin.me/@freyhk
+Bitcoin, Lightning Network and most major credit cards available for donations at [https://frey.hk](https://frey.hk).
 
 ## License
 
